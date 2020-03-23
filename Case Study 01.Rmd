@@ -2,7 +2,7 @@
 title:"Case Study 01"
 author:"Thad Schwebke, Kris Ghimire, Rajesh Satluri"
 date:"2/18/2020"
-output:html_document:toc:yes
+output:html_document:toc:no
 word_document:default
 pdf_document:default
 ---
