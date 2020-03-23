@@ -1,12 +1,29 @@
----
-title: "DDS Unit 12 HW"
-author: "Rajesh satluri"
-date: "3/20/2020"
-output: html_document
----
 
-# Content 
-## two
-### three
-Rajesh Satluri
-![picture](images/Pictures)
+# Rajesh Satluri
+![picture](C:/Personal/SMU/DDS6306/Unit12/rajeshsk.github.io/drpepper.jpg)
+Welcome to Doing Data Sciences
+
+I am from Dallas,Texas. Works for KDP.
+
+I have masters in Computer Sciences and currently doing Masters in Data Sciences from SMU
+
+I love to innovate and explore new ideas in the world of Data Sciences
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+
+
+“The other tabs represent work / analyses that I have completed.  Please check them out!”
