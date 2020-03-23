@@ -1,3 +1,11 @@
+---
+title:"Rajesh Home Page"
+date:"3/22/2020"
+output:html_document:toc:yes
+word_document:default
+pdf_document:default
+---
+
 
 # Rajesh Satluri
 ![picture](C:/Personal/SMU/DDS6306/Unit12/rajeshsk.github.io/drpepper.jpg)

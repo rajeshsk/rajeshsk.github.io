@@ -7,9 +7,7 @@ word_document:default
 pdf_document:default
 ---
 
-```{r setup, include=FALSE}
-  knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 ## Instructions
 You can assume that your audience is the CEO and CFO of Budweiser (your client) and that they only have had one class in statistics and have indicated that you cannot take more than 7 minutes of their time. 20% of your grade will be based on the presentation. 
